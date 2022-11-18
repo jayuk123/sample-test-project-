@@ -7,5 +7,6 @@ public class Login
  public static void main(String[] args)
  {
  login("ABC",123);
+ login("XYZ",456);
  }
  }
